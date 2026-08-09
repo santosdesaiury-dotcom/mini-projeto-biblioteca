@@ -1,0 +1,12 @@
+{
+  "name": "sistema-biblioteca",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "1index.js",
+  "scripts": {
+    "start": "node 1index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
